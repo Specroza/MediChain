@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Custom global styles or overrides */
+body {
+  @apply bg-gray-100 text-gray-800 font-sans;
+}
+
+button {
+  @apply transition-all duration-300 ease-in-out;
+}
+
+input, select {
+  @apply border border-gray-300 p-2 rounded w-full;
+}
+
+/* Reusable Button Classes */
+.btn-primary {
+  @apply bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700;
+}
+
+.btn-secondary {
+  @apply bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700;
+}
+
+.btn-success {
+  @apply bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700;
+}
+
+.btn-warning {
+  @apply bg-yellow-500 text-white px-4 py-2 rounded hover:bg-yellow-600;
+}
+
+.btn-purple {
+  @apply bg-purple-600 text-white px-4 py-2 rounded hover:bg-purple-700;
+}
