@@ -1,4 +1,4 @@
-This project is developed by Nafiz Al Zawad (github.com/nafizalzawad) and Ananna Ayshi Rozario (github.com/Specroza)
+This project is developed by Nafiz Al Zawad (http://github.com/nafizalzawad) and Ananna Ayshi Rozario (http://github.com/Specroza)
 
 # MediChain
 
