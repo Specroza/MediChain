@@ -1,3 +1,5 @@
+This project is developed by Nafiz Al Zawad (github.com/nafizalzawad) and Ananna Ayshi Rozario (github.com/Specroza)
+
 # MediChain
 
 MediChain is a Blockchain-based Medical Management System designed to securely manage medical records, patient data, and prescription history with transparency, traceability, and tamper-resistance.
@@ -53,3 +55,4 @@ bash
 Copy
 Edit
 node index.js
+
